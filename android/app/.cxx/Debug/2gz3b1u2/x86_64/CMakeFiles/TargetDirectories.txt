@@ -1,0 +1,2 @@
+D:/Final_work/baby_care/android/app/.cxx/Debug/2gz3b1u2/x86_64/CMakeFiles/edit_cache.dir
+D:/Final_work/baby_care/android/app/.cxx/Debug/2gz3b1u2/x86_64/CMakeFiles/rebuild_cache.dir
